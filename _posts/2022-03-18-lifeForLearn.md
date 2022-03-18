@@ -1,7 +1,7 @@
 ---
 title:  "生命不息学习不止"
 categories: 
-  - 学习
+  - learn
 tags:
   - 学习
 ---
